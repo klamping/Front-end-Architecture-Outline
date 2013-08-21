@@ -4,55 +4,55 @@
 
 ### VCS
 
-Git
-Subversion
-...
+- Git
+- Subversion
+- ...
 
 #### Code Repository Location
 
-GitHub
-BitBucket
-...
+- GitHub
+- BitBucket
+- ...
 
 ### E2E Testing Tool
 
-Selenium
+- Selenium
 
 ## Testing Tools
 
-Sauce Labs
-
+- Sauce Labs
 
 ### API's for Data
 
-[URL's to API's]
-[Docs on API's]
+- [URL's to API's]
+- [Docs on API's]
 
 ### Build System
 
-Grunt
-
+- Grunt
 
 ### Browser Support
 
-IE 7-Latest
-Chrome Latest
-[Link to browser usage information]
-[Link to caniuse.com
+- IE 7-Latest
+- Chrome Latest
+
+#### Resources
+- [Link to browser usage information]
+- [Link to caniuse.com
 
 ## HTML
 
 ### Templating Library
 
-Mustache
-Handlebars
-Smarty, etc
-HAML
-Jade
+- Mustache
+- Handlebars
+- Smarty, etc
+- HAML
+- Jade
 
 ### Style Guide
 
-http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#HTML_Style_Rules
+- http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#HTML_Style_Rules
 
 ## CSS
 
@@ -61,37 +61,39 @@ http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#HTML_Style_Ru
 ### Style Guides
 
 #### Articles
-[CSS Style Guides - CSS Tricks](http://css-tricks.com/css-style-guides/)
+- [CSS Style Guides - CSS Tricks](http://css-tricks.com/css-style-guides/)
 
 #### The List
-[Idiomatic CSS](https://github.com/necolas/idiomatic-css)
+- [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
 
 ### Naming Conventions
 
-SMACSS
-OOCSS
-BEM
+- SMACSS
+- OOCSS
+- BEM
 
 ### Unit Testing Tool
 
-[Overview](http://csste.st)
+- [Overview](http://csste.st)
 
 ### Pre-processor
 
-Less
-Sass
-Stylus
+- Less
+- Sass
+- Stylus
 
 ### Pattern Library
 
-Pure.css
-Bootstrap
+- Pure.css
+- Bootstrap
 
 ### Documentation Tool
 
-CSSDoc
-KSS
-[Style Docco](http://jacobrask.github.io/styledocco/)
+- CSSDoc
+- KSS
+- [Style Docco](http://jacobrask.github.io/styledocco/)
+
+#### Articles
 [On CSS Documentaiton](http://byrichardpowell.co.uk/post/48682993574/on-css-documentation)
 
 ## JavaScript
@@ -100,40 +102,40 @@ KSS
 
 ### Unit Testing Tool
 
-Jasmine
-Mocha
-YUI Test
+- Jasmine
+- Mocha
+- YUI Test
 
 ### Functional Testing tool
 
-Karma
-Yeti
+- Karma
+- Yeti
 
 ### Logging Infrastructure
 
-http://mixu.net/minilog/
-http://pimterry.github.io/loglevel/
+- http://mixu.net/minilog/
+- http://pimterry.github.io/loglevel/
 
 ### MV* Framework
 
-Angular
-Backbone
+- Angular
+- Backbone
 
 ### Other Libraries
 
-Modernizr
-Moment.js
+- Modernizr
+- Moment.js
 
 ### Compiler
 
-None
-CoffeeScript
-Dart
-...
+- None
+- CoffeeScript
+- Dart
+- ...
 
 
 ### Documentation Tool
 
-YUIDoc
-[Selleck](https://github.com/yui/selleck)
-JSDoc 3
+- YUIDoc
+- [Selleck](https://github.com/yui/selleck)
+- JSDoc 3
