@@ -1,19 +1,27 @@
 # Front-end Architecture Outline
 
+The purpose of this outline is to help build an outline of the Front-end architecture to be used by a project. 
+
+The goal is not to determine which framework or approach is better, but to define in clear terms how your web app will be constructed. 
+
+## What's needed
+
+- Fleshing out of all the various options for each category.
+- Linking to articles and resources for more details on each category.
+- Addition of new categories that are missing. 
+
 ## General
 
 ### VCS
 
 - Git
 - Subversion
-- ...
 
 #### Code Repository Location
 
 - GitHub
 - BitBucket
-- ...
-
+- 
 ### E2E Testing Tool
 
 - Selenium
@@ -131,7 +139,6 @@
 - None
 - CoffeeScript
 - Dart
-- ...
 
 
 ### Documentation Tool
