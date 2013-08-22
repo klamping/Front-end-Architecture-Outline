@@ -6,7 +6,7 @@ The goal is not to determine which framework or approach is better, but to defin
 
 ## What's needed
 
-- Fleshing out of all the various options for each category.
+- Fleshing out of all the various options for each category. I've tried to include a couple of examples on each, but it's by no means complete.
 - Linking to articles and resources for more details on each category.
 - Addition of new categories that are missing. 
 
@@ -126,8 +126,18 @@ The goal is not to determine which framework or approach is better, but to defin
 
 ### MV* Framework
 
+#### Resources
+
+- [TodoMVC.com](http://todomvc.com]
+- [Journey Through The JavaScript MVC Jungle](http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/)
+
+#### Frameworks
+
 - Angular
 - Backbone
+- Ember.js
+- Knockout.js
+- YUI3
 
 ### Other Libraries
 
@@ -140,9 +150,13 @@ The goal is not to determine which framework or approach is better, but to defin
 - CoffeeScript
 - Dart
 
-
 ### Documentation Tool
 
 - YUIDoc
 - [Selleck](https://github.com/yui/selleck)
 - JSDoc 3
+
+### Module Loader
+
+- Require.js
+- YUI3
