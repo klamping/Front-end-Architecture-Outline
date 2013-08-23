@@ -26,6 +26,7 @@ The goal is not to determine which framework or approach is better, but to defin
 
 - Selenium
 - [BAS](http://bas.cgiffard.com/)
+- [Cucumber.js](https://github.com/cucumber/cucumber-js)
 
 ## Testing Tools
 
