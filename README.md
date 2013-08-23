@@ -25,6 +25,7 @@ The goal is not to determine which framework or approach is better, but to defin
 ### E2E Testing Tool
 
 - Selenium
+- [BAS](http://bas.cgiffard.com/)
 
 ## Testing Tools
 
