@@ -22,7 +22,7 @@ The goal is not to determine which framework or approach is better, but to defin
 - GitHub
 - BitBucket
 
-### E2E Testing Tool
+### Integration Testing Tool
 
 - Selenium
 - [BAS](http://bas.cgiffard.com/)
